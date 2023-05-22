@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.ninja
+.cmake
+.idea
+cmake*
+.DS_Store
